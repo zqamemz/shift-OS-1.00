@@ -3,6 +3,7 @@
 using namespace std;
 void head(){
     cout<<"Welcome to the shit system"<<endl;
+    cout<<"the new visions is comming"<<endl;
 
 }
 
